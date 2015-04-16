@@ -1,37 +1,37 @@
 Masters Edition,ME1
 Masters Edition II,ME2
 Masters Edition III,ME3
-Masters Edition IV,ME3
+Masters Edition IV,ME4
 Vintage Masters,VMA
 Unhinged,UNH
 Unglued,UG
-Portal,PO
+Portal,PT
 Portal Second Age,P2
 Portal Three Kingdoms,PK
 Starter 1999,P3
 Starter 2000,P4
 Chronicles,CH
-Anthologies,ATH
+Anthologies,AT
 Battle Royale Box Set,BRB
 Beatdown Box Set,BTD
-Arabian Nights,ARN
-Antiquities,ATQ
-Legends,LEG
-The Dark,DRK
-Fallen Empires,FEM
-Homelands,HML
-Seventh Edition,7ED
-Classic Sixth Edition,6ED
-Fifth Edition,5ED
-Fourth Edition,4ED
-Revised Edition,3ED
-Unlimited Edition,2ED
-Limited Edition Beta,LEB
-Limited Edition Alpha,LEA
+Arabian Nights,AN
+Antiquities,AQ
+Legends,LG
+The Dark,DK
+Fallen Empires,FE
+Homelands,HL
+Seventh Edition,7E
+Classic Sixth Edition,6E
+Fifth Edition,5E
+Fourth Edition,4E
+Revised Edition,R
+Unlimited Edition,U
+Limited Edition Beta,B
+Limited Edition Alpha,A
 From the Vault: Dragons,DRB
-From the Vault: Exiled,V09
+From the Vault: Exiled,FVE
 From the Vault: Legends,V11
-From the Vault: Relics,V10
+From the Vault: Relics,FVR
 From the Vault: Realms,V12
 From the Vault: Twenty,V13
 From the Vault: Annihilation,V14
@@ -41,12 +41,12 @@ Premium Deck Series: Slivers,H09
 Duel Decks: Divine vs. Demonic,DDC
 Duel Decks: Elspeth vs. Tezzeret,DDF
 Duel Decks: Elves vs. Goblins,EVG
-Duel Decks: Garruk vs. Liliana,DDD
+Duel Decks: Garruk vs. Liliana,GVL
 Duel Decks: Jace vs. Chandra,DD2
 Duel Decks: Phyrexia vs. the Coalition,DDE 
 Duel Decks: Knights vs. Dragons,DDG
 Duel Decks: Ajani vs. Nicol Bolas,DDH
-Duel Decks: Venser vs. Koth,VVK
+Duel Decks: Venser vs. Koth,DDI
 Duel Decks: Izzet vs. Golgari,DDJ
 Duel Decks: Sorin vs. Tibalt,DDK
 Duel Decks: Heroes vs. Monsters,DDL
@@ -60,35 +60,35 @@ Commander 2014,C14
 Archenemy,ARC
 Planechase,HOP
 Planechase 2012 Edition,PC2
-Magic: The Gathering-Conspiracy,CN
-Ice Age,ICE
-Alliances,ALL
+Magic: The Gathering-Conspiracy,CNS
+Ice Age,IA
+Alliances,AL
 Coldsnap,CSP
-Mirage,MIR
-Visions,VIS
-Weatherlight,WTH
-Tempest,TMP
-Stronghold,STH
-Exodus,EXO
-Urza's Saga,USG
-Urza's Legacy,ULG
-Urza's Destiny,UDS
-Mercadian Masques,MMQ
-Nemesis,NMS
-Prophecy,PCY
-Invasion,INV
-Planeshift,PLS
-Apocalypse,APC
-Odyssey,ODY
-Torment,TOR
-Judgment,JUD
-Onslaught,ONS
-Legions,LGN
-Scourge,SCG
-Mirrodin,MRD
-Darksteel,DST
-Fifth Dawn,5DN
-Champions of Kamigawa,CHK
+Mirage,MI
+Visions,VI
+Weatherlight,WL
+Tempest,TE
+Stronghold,SH
+Exodus,EX
+Urza's Saga,US
+Urza's Legacy,UL
+Urza's Destiny,UD
+Mercadian Masques,MM
+Nemesis,NE
+Prophecy,PY
+Invasion,IN
+Planeshift,PS
+Apocalypse,AP
+Odyssey,OD
+Torment,TO
+Judgment,JU
+Onslaught,ON
+Legions,LE
+Scourge,SC
+Mirrodin,MR
+Darksteel,DS
+Fifth Dawn,FD
+Champions of Kamigawa,COK
 Betrayers of Kamigawa,BOK
 Saviors of Kamigawa,SOK
 Ravnica: City of Guilds,RAV
@@ -97,13 +97,13 @@ Dissension,DIS
 Time Spiral,TSP
 Planar Chaos,PLC
 Future Sight,FUT
-Time Spiral ""Timeshifted"",TSB
+Time Spiral ""Timeshifted"",TSP
 Lorwyn,LRW
 Morningtide,MOR
 Shadowmoor,SHM
 Eventide,EVE
 Shards of Alara,ALA
-Conflux,CON2
+Conflux,CON
 Alara Reborn,ARB
 Zendikar,ZEN
 Worldwake,WWK
@@ -117,8 +117,8 @@ Avacyn Restored,AVR
 Return to Ravnica,RTR
 Gatecrash,GTC
 Dragon's Maze,DGM
-Eighth Edition,8ED
-Ninth Edition,9ED
+Eighth Edition,8E
+Ninth Edition,9E
 Tenth Edition,10E
 Magic 2010,M10
 Magic 2011,M11
@@ -127,7 +127,7 @@ Magic 2013,M13
 Magic 2014 Core Set,M14
 Modern Masters,MMA
 Modern Event Deck 2014,MD1
-Magic 2015 Core Set,M5
+Magic 2015 Core Set,M15
 Theros,THS
 Born of the Gods,BNG
 Journey into Nyx,JOU

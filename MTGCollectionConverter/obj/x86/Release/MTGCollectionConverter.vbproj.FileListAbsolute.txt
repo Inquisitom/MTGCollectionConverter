@@ -1,0 +1,11 @@
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\MTGCollectionConverter\MTGCollectionConverter\bin\Release\MTGCollectionConverter.exe
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\MTGCollectionConverter\MTGCollectionConverter\bin\Release\MTGCollectionConverter.pdb
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\MTGCollectionConverter\MTGCollectionConverter\bin\Release\MTGCollectionConverter.xml
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\MTGCollectionConverter\MTGCollectionConverter\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\MTGCollectionConverter\MTGCollectionConverter\obj\x86\Release\MTGCollectionConverter.Form1.resources
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\MTGCollectionConverter\MTGCollectionConverter\obj\x86\Release\MTGCollectionConverter.Resources.resources
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\MTGCollectionConverter\MTGCollectionConverter\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\MTGCollectionConverter\MTGCollectionConverter\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\MTGCollectionConverter\MTGCollectionConverter\obj\x86\Release\MTGCollectionConverter.exe
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\MTGCollectionConverter\MTGCollectionConverter\obj\x86\Release\MTGCollectionConverter.xml
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\MTGCollectionConverter\MTGCollectionConverter\obj\x86\Release\MTGCollectionConverter.pdb

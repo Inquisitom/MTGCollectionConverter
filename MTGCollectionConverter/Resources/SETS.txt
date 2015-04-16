@@ -1,0 +1,136 @@
+Masters Edition,ME1
+Masters Edition II,ME2
+Masters Edition III,ME3
+Masters Edition IV,ME3
+Vintage Masters,VMA
+Unhinged,UNH
+Unglued,UG
+Portal,PO
+Portal Second Age,P2
+Portal Three Kingdoms,PK
+Starter 1999,P3
+Starter 2000,P4
+Chronicles,CH
+Anthologies,ATH
+Battle Royale Box Set,BRB
+Beatdown Box Set,BTD
+Arabian Nights,ARN
+Antiquities,ATQ
+Legends,LEG
+The Dark,DRK
+Fallen Empires,FEM
+Homelands,HML
+Seventh Edition,7ED
+Classic Sixth Edition,6ED
+Fifth Edition,5ED
+Fourth Edition,4ED
+Revised Edition,3ED
+Unlimited Edition,2ED
+Limited Edition Beta,LEB
+Limited Edition Alpha,LEA
+From the Vault: Dragons,DRB
+From the Vault: Exiled,V09
+From the Vault: Legends,V11
+From the Vault: Relics,V10
+From the Vault: Realms,V12
+From the Vault: Twenty,V13
+From the Vault: Annihilation,V14
+Premium Deck Series: Graveborn,PD3
+Premium Deck Series: Fire and Lightning,PD2
+Premium Deck Series: Slivers,H09
+Duel Decks: Divine vs. Demonic,DDC
+Duel Decks: Elspeth vs. Tezzeret,DDF
+Duel Decks: Elves vs. Goblins,EVG
+Duel Decks: Garruk vs. Liliana,DDD
+Duel Decks: Jace vs. Chandra,DD2
+Duel Decks: Phyrexia vs. the Coalition,DDE 
+Duel Decks: Knights vs. Dragons,DDG
+Duel Decks: Ajani vs. Nicol Bolas,DDH
+Duel Decks: Venser vs. Koth,VVK
+Duel Decks: Izzet vs. Golgari,DDJ
+Duel Decks: Sorin vs. Tibalt,DDK
+Duel Decks: Heroes vs. Monsters,DDL
+Duel Decks: Jace vs. Vraska,DDM
+Duel Decks: Speed vs. Cunning,DDN
+Duel Decks: Kiora vs. Elspeth,DDO
+Magic: The Gathering-Commander,CMD
+Commander's Arsenal,CMA
+Commander 2013 Edition,C13
+Commander 2014,C14
+Archenemy,ARC
+Planechase,HOP
+Planechase 2012 Edition,PC2
+Magic: The Gathering-Conspiracy,CN
+Ice Age,ICE
+Alliances,ALL
+Coldsnap,CSP
+Mirage,MIR
+Visions,VIS
+Weatherlight,WTH
+Tempest,TMP
+Stronghold,STH
+Exodus,EXO
+Urza's Saga,USG
+Urza's Legacy,ULG
+Urza's Destiny,UDS
+Mercadian Masques,MMQ
+Nemesis,NMS
+Prophecy,PCY
+Invasion,INV
+Planeshift,PLS
+Apocalypse,APC
+Odyssey,ODY
+Torment,TOR
+Judgment,JUD
+Onslaught,ONS
+Legions,LGN
+Scourge,SCG
+Mirrodin,MRD
+Darksteel,DST
+Fifth Dawn,5DN
+Champions of Kamigawa,CHK
+Betrayers of Kamigawa,BOK
+Saviors of Kamigawa,SOK
+Ravnica: City of Guilds,RAV
+Guildpact,GPT
+Dissension,DIS
+Time Spiral,TSP
+Planar Chaos,PLC
+Future Sight,FUT
+Time Spiral ""Timeshifted"",TSB
+Lorwyn,LRW
+Morningtide,MOR
+Shadowmoor,SHM
+Eventide,EVE
+Shards of Alara,ALA
+Conflux,CON2
+Alara Reborn,ARB
+Zendikar,ZEN
+Worldwake,WWK
+Rise of the Eldrazi,ROE
+Scars of Mirrodin,SOM
+Mirrodin Besieged,MBS
+New Phyrexia,NPH
+Innistrad,ISD
+Dark Ascension,DKA
+Avacyn Restored,AVR
+Return to Ravnica,RTR
+Gatecrash,GTC
+Dragon's Maze,DGM
+Eighth Edition,8ED
+Ninth Edition,9ED
+Tenth Edition,10E
+Magic 2010,M10
+Magic 2011,M11
+Magic 2012,M12
+Magic 2013,M13
+Magic 2014 Core Set,M14
+Modern Masters,MMA
+Modern Event Deck 2014,MD1
+Magic 2015 Core Set,M5
+Theros,THS
+Born of the Gods,BNG
+Journey into Nyx,JOU
+Khans of Tarkir,KTK
+Fate Reforged,FRF
+Dragons of Tarkir,DTK

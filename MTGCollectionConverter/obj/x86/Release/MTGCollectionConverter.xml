@@ -1,0 +1,55 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MTGCollectionConverter
+</name>
+</assembly>
+<members>
+<member name="P:MTGCollectionConverter.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:MTGCollectionConverter.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:MTGCollectionConverter.My.Resources.Resources.SETS">
+	<summary>
+  Looks up a localized string similar to Tenth Edition,10E 
+Fourth Edition,4E 
+Fifth Edition,5E 
+6-th Edition,6E 
+Seventh Edition,7E 
+Eighth Edition,8E 
+Ninth Edition,9E 
+Alpha,A 
+Alternate Art:,AA 
+Alliances,AL 
+Shards of Alara,ALA 
+Arabian Nights,AN 
+Apocalypse,AP 
+Antiquities,AQ 
+Alara Reborn,ARB 
+Archmage,ARC 
+Astral,AS 
+Anthologies,AT 
+Ajani VS Nicol Bolas,AVG 
+Avacyn Restored,AVR 
+Beta,B 
+Beatdown,BD 
+Born of the Gods,BNG 
+Betrayers of Kamigawa,BOK 
+Battle Royale,BR 
+Box Topper,BT 
+Commander (2013 Edition),C13 
+Com [rest of string was truncated]";.
+</summary>
+</member><member name="T:MTGCollectionConverter.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

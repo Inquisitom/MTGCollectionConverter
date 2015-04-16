@@ -9,3 +9,12 @@ C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projec
 C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\MTGCollectionConverter\MTGCollectionConverter\obj\x86\Release\MTGCollectionConverter.exe
 C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\MTGCollectionConverter\MTGCollectionConverter\obj\x86\Release\MTGCollectionConverter.xml
 C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\MTGCollectionConverter\MTGCollectionConverter\obj\x86\Release\MTGCollectionConverter.pdb
+C:\Users\Inquisitom\Documents\Visual Studio 2010\Projects\MTGCollectionConverter_Git\MTGCollectionConverter\MTGCollectionConverter\bin\Release\MTGCollectionConverter.exe
+C:\Users\Inquisitom\Documents\Visual Studio 2010\Projects\MTGCollectionConverter_Git\MTGCollectionConverter\MTGCollectionConverter\bin\Release\MTGCollectionConverter.pdb
+C:\Users\Inquisitom\Documents\Visual Studio 2010\Projects\MTGCollectionConverter_Git\MTGCollectionConverter\MTGCollectionConverter\bin\Release\MTGCollectionConverter.xml
+C:\Users\Inquisitom\Documents\Visual Studio 2010\Projects\MTGCollectionConverter_Git\MTGCollectionConverter\MTGCollectionConverter\obj\x86\Release\MTGCollectionConverter.Form1.resources
+C:\Users\Inquisitom\Documents\Visual Studio 2010\Projects\MTGCollectionConverter_Git\MTGCollectionConverter\MTGCollectionConverter\obj\x86\Release\MTGCollectionConverter.Resources.resources
+C:\Users\Inquisitom\Documents\Visual Studio 2010\Projects\MTGCollectionConverter_Git\MTGCollectionConverter\MTGCollectionConverter\obj\x86\Release\MTGCollectionConverter.vbproj.GenerateResource.Cache
+C:\Users\Inquisitom\Documents\Visual Studio 2010\Projects\MTGCollectionConverter_Git\MTGCollectionConverter\MTGCollectionConverter\obj\x86\Release\MTGCollectionConverter.exe
+C:\Users\Inquisitom\Documents\Visual Studio 2010\Projects\MTGCollectionConverter_Git\MTGCollectionConverter\MTGCollectionConverter\obj\x86\Release\MTGCollectionConverter.xml
+C:\Users\Inquisitom\Documents\Visual Studio 2010\Projects\MTGCollectionConverter_Git\MTGCollectionConverter\MTGCollectionConverter\obj\x86\Release\MTGCollectionConverter.pdb

@@ -3,14 +3,16 @@
 Public Class Form1
     Public SETS As New Dictionary(Of String, String)
 
+    Private Sub Form1_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
+        LoadSets()
+    End Sub
+
     Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button1.Click
         'choose file to convert
         'must be csv, and contain as first line : 
         'Total Qty,Reg Qty,Foil Qty,Card,Set,Mana Cost,Card Type,Color,Rarity,Mvid,Single Price,Single Foil Price,Total Price,Price Source,Notes
         '
         '
-        LoadSets()
-
         Dim OFD As New OpenFileDialog
         TextBox1.Text = ""
 

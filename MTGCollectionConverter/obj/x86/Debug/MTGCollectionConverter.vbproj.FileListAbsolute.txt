@@ -19,3 +19,6 @@ C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projec
 C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\MTGCollectionConverter\MTGCollectionConverter\obj\x86\Debug\MTGCollectionConverter.exe
 C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\MTGCollectionConverter\MTGCollectionConverter\obj\x86\Debug\MTGCollectionConverter.xml
 C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\MTGCollectionConverter\MTGCollectionConverter\obj\x86\Debug\MTGCollectionConverter.pdb
+C:\Users\Inquisitom\Documents\Visual Studio 2010\Projects\MTGCollectionConverter_Git\MTGCollectionConverter\MTGCollectionConverter\obj\x86\Debug\MTGCollectionConverter.exe
+C:\Users\Inquisitom\Documents\Visual Studio 2010\Projects\MTGCollectionConverter_Git\MTGCollectionConverter\MTGCollectionConverter\obj\x86\Debug\MTGCollectionConverter.xml
+C:\Users\Inquisitom\Documents\Visual Studio 2010\Projects\MTGCollectionConverter_Git\MTGCollectionConverter\MTGCollectionConverter\obj\x86\Debug\MTGCollectionConverter.pdb

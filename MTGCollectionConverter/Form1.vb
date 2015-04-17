@@ -1,4 +1,7 @@
 ﻿Imports System.IO
+'TODO: handle Notes
+'TODO: handle Foils
+'TODO: handle Prices (warning $-€)
 
 Public Class Form1
     Public SETS As New Dictionary(Of String, String)
@@ -57,6 +60,9 @@ Public Class Form1
 
             Dim vFullPath As String = Path.GetFullPath(FilePathToConvert)
             Dim vCurrDir As String = Path.GetDirectoryName(FilePathToConvert)
+            If vCurrDir.EndsWith("\") = False Then
+                vCurrDir = vCurrDir & "\"
+            End If
             Dim vExt As String = Path.GetExtension(FilePathToConvert)
             Dim vName As String = Path.GetFileNameWithoutExtension(FilePathToConvert)
 
